@@ -1,4 +1,4 @@
-# Algo-Assignment2
+# Algo-FinalProject
 
 In this Code we set up a dijkstra algorithm to help navigate electric car users to the nearest charging station.
 
